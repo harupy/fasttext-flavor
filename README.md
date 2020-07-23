@@ -3,7 +3,7 @@
 Install dependencies
 
 ```
-pip install mlflow fasstext
+pip install mlflow fasttext
 ```
 
 How to run:
